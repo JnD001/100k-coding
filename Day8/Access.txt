@@ -1,0 +1,6 @@
+Access Specifiers :
+
+1) Public : Function can be called to different packages.
+2) Private: can only use in its class.
+3) Protected :can only use in its class and inherited class.
+4) Default : can be used in that package.
